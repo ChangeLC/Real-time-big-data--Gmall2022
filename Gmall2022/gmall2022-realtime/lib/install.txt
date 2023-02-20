@@ -1,0 +1,3 @@
+
+
+mvn install:install-file -Dfile=phoenix-spark-4.13.1-HBase-1.3.jar -DgroupId=org.apache.phoenix -DartifactId=phoenix-spark -Dversion=4.13.1-HBase-1.3 -Dpackaging=jar
